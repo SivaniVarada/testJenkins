@@ -13,6 +13,6 @@ pipeline
                 sh 'node test.js'
                 sh 'echo hiii!!'
             }
-        }
-    }
+        }
+    }
 }
